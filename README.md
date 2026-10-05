@@ -138,7 +138,7 @@ Eliminar todo: `kubectl delete namespace practica2`
 
 ## Video
 
-Enlace al video de la práctica: _pendiente (pegar aquí el link)_
+Enlace al video de la práctica: [Ver video de la práctica](https://drive.google.com/file/d/1OC4XN2qYiQmNGTyradBD4llk4w5Jm010/view?usp=drive_link)
 
 ## Estructura
 
